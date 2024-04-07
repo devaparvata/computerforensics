@@ -125,11 +125,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 - [EaseUS Partition Master](https://www.easeus.com/)
 
-## Disk Viewer (low level)
+### Disk Viewer (low level)
 
 - [Active Disk Editor](https://www.disk-editor.org/index.html)
 
-## Hex Viewer
+### Hex Viewer
 
 - [HxD](https://mh-nexus.de/en/hxd/)
 
@@ -141,6 +141,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ### Timestamp Decoder
 
 - [DCode](https://www.digital-detective.net/dcode/)
+
+### Meta Information Manager
+
+- [ExifTool](https://exiftool.org/)
 
 ### Collection
 
