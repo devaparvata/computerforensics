@@ -159,6 +159,47 @@ then
 ipconfig /flushdns
 ```
 
+### Software URLs
+
+https://www.sleuthkit.org/autopsy (Autopsy)
+
+https://github.com/sleuthkit/autopsy_addon_modules
+
+https://www.7-zip.org/download.html
+
+https://ericzimmerman.github.io/#!index.md
+
+-AmcacheParser
+
+-AppCompatCacheParser
+
+-Registry Explorer/RECmd
+
+-ShellBags Explorer
+
+-JumpList Explorer
+
+-Timeline Explorer
+
+-MFTExplorer
+
+-WxTCmd
+
+https://www.killdisk.com/killdisk-freeware.htm
+
+https://mh-nexus.de/en/ (HxD)
+
+https://www.disk-editor.org/index.html
+
+https://www.softpedia.com/get/System/File-Management/LinkParser.shtml
+
+https://accessdata.com/product-download/ftk-imagerversion-4-2-1
+
+https://www.exiftool.org
+
+https://www.nirsoft.net/utils/win_prefetch_view.html 
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
